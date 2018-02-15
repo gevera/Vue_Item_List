@@ -1,12 +1,12 @@
 <template>
 	<div>
-		<hr/>
+    <h4>Item 1</h4>
 	</div>
 </template>
 
 <script>
 export default {
-  name: "Footer",
+  name: "ItemsList",
   data() {
     return {};
   }

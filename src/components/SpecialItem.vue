@@ -1,12 +1,12 @@
 <template>
 	<div>
-		<hr/>
+		
 	</div>
 </template>
 
 <script>
 export default {
-  name: "Footer",
+  name: "SpecialItem",
   data() {
     return {};
   }
